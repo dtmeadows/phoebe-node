@@ -1,5 +1,22 @@
 # Changelog
 
+## 0.1.0-alpha.5 (2025-01-21)
+
+Full Changelog: [v0.1.0-alpha.4...v0.1.0-alpha.5](https://github.com/phoebe-bird/phoebe-node/compare/v0.1.0-alpha.4...v0.1.0-alpha.5)
+
+### Chores
+
+* **internal:** bump cross-spawn to v7.0.6 ([#30](https://github.com/phoebe-bird/phoebe-node/issues/30)) ([51b833c](https://github.com/phoebe-bird/phoebe-node/commit/51b833ca27982a7c83a7aaecd4d0d6b0ce71dad4))
+* **internal:** codegen related update ([#31](https://github.com/phoebe-bird/phoebe-node/issues/31)) ([db3b42c](https://github.com/phoebe-bird/phoebe-node/commit/db3b42cd3960bf580348422b303121799166c6d2))
+* **internal:** codegen related update ([#32](https://github.com/phoebe-bird/phoebe-node/issues/32)) ([02a3452](https://github.com/phoebe-bird/phoebe-node/commit/02a34520910ef3f187b4b7c7149ecb41f9286b9b))
+* **internal:** codegen related update ([#34](https://github.com/phoebe-bird/phoebe-node/issues/34)) ([b3b7e9d](https://github.com/phoebe-bird/phoebe-node/commit/b3b7e9df373c15b8ffbc358349d9c1f88e636d8a))
+* **internal:** codegen related update ([#35](https://github.com/phoebe-bird/phoebe-node/issues/35)) ([946982d](https://github.com/phoebe-bird/phoebe-node/commit/946982d451aa1f3b3bac7d88dae9bb3d45784a37))
+* **internal:** codegen related update ([#36](https://github.com/phoebe-bird/phoebe-node/issues/36)) ([c835d31](https://github.com/phoebe-bird/phoebe-node/commit/c835d31a3dbeb4e90b5ceae59040a96e3ccf3651))
+* **internal:** codegen related update ([#37](https://github.com/phoebe-bird/phoebe-node/issues/37)) ([c61dbcc](https://github.com/phoebe-bird/phoebe-node/commit/c61dbccda5d8dde4dd74c4f829a2ed432dae8c46))
+* **internal:** codegen related update ([#38](https://github.com/phoebe-bird/phoebe-node/issues/38)) ([4f7f681](https://github.com/phoebe-bird/phoebe-node/commit/4f7f681dd513d2c8a622238fc0ae9325318e105e))
+* **internal:** fix some typos ([#33](https://github.com/phoebe-bird/phoebe-node/issues/33)) ([d2e73ed](https://github.com/phoebe-bird/phoebe-node/commit/d2e73ede9198b6bd5f4e486eebd622506074789b))
+* **internal:** remove unnecessary getRequestClient function ([#28](https://github.com/phoebe-bird/phoebe-node/issues/28)) ([ec57150](https://github.com/phoebe-bird/phoebe-node/commit/ec57150c006abc1dec0c4e597b49bff7d93b4acb))
+
 ## 0.1.0-alpha.4 (2024-11-28)
 
 Full Changelog: [v0.1.0-alpha.3...v0.1.0-alpha.4](https://github.com/phoebe-bird/phoebe-node/compare/v0.1.0-alpha.3...v0.1.0-alpha.4)
