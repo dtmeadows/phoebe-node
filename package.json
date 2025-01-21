@@ -1,6 +1,6 @@
 {
   "name": "phoebe-ebird",
-  "version": "0.1.0-alpha.4",
+  "version": "0.1.0-alpha.5",
   "description": "The official TypeScript library for the Phoebe API",
   "author": "Phoebe <sayornis.phoebe.apis@gmail.com>",
   "types": "dist/index.d.ts",
